@@ -41,6 +41,13 @@ require_once 'config.php';
         <a href="https://hashflare.io/r/69295B0A-ads"><img src="https://hashflare.io/banners/468x60-eng-2.jpg" alt="HashFlare"></a>
         <!-- ADS ADS ADS ADS ADS ADS ADS ADS ADS -->
 
+        <center>
+          <p style="font-size:15px;"><i>Download Bytecoin Wallet to create your address!</i></p>
+          <p style="font-size:20px;">
+            <a href="https://bytecoin.org/downloads""><input type="submit" value="Download Bytecoin Wallet"><a/>
+          </p>
+        </center>
+
         <br>
 
 
